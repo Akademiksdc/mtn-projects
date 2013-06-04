@@ -6,7 +6,7 @@
     <groupId>com.mtn.training</groupId>
     <artifactId>ci-training</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-rel</version>
+    <version>2.0-rel</version>
     <name>Vladimir_Voitekhovski</name>
 
 <build>
